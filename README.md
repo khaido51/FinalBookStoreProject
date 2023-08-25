@@ -28,6 +28,7 @@ Here is the flow of the website
 ![](https://raw.githubusercontent.com/khaido51/FinalBookStoreProject/main/screenshot/login.png)
 
 <li>Login function</li>
+<img src="https://github.com/khaido51/FinalBookStoreProject/assets/36833306/b72fce8d-e318-4ea2-9f9e-dc1272e9757f">
 ![image](https://github.com/khaido51/FinalBookStoreProject/assets/36833306/b72fce8d-e318-4ea2-9f9e-dc1272e9757f)
 
 <li>Show all books loaded from database</li>
