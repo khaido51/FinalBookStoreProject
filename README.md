@@ -24,6 +24,7 @@ There are several technologies that I have applied to the project including
 
 Here is the flow of the website
 <li>User register can register an account</li>
+<img src="https://raw.githubusercontent.com/khaido51/FinalBookStoreProject/main/screenshot/login.png">
 ![](https://raw.githubusercontent.com/khaido51/FinalBookStoreProject/main/screenshot/login.png)
 
 <li>Login function</li>
