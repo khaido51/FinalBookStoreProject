@@ -24,7 +24,7 @@ There are several technologies that I have applied to the project including
 
 Here is the flow of the website
 <li>User register can register an account</li>
-https://raw.githubusercontent.com/khaido51/FinalBookStoreProject/main/screenshot/login.png
+![image](https://raw.githubusercontent.com/khaido51/FinalBookStoreProject/main/screenshot/login.png)
 
 <li>Login function</li>
 ![image](https://github.com/khaido51/FinalBookStoreProject/assets/36833306/b72fce8d-e318-4ea2-9f9e-dc1272e9757f)
