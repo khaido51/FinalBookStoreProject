@@ -63,6 +63,6 @@ Here is the flow of the website
 <img src="https://github.com/khaido51/FinalBookStoreProject/assets/36833306/c3a2426f-2e29-4e87-a192-4767aadd5dce">
 <br>
 <li>Show order details history</li>
-<img src="https://github.com/khaido51/FinalBookStoreProject/assets/36833306/637e98d3-f036-4d6e-868b-94115b4a20a2>
-<br>
+<img src="https://github.com/khaido51/FinalBookStoreProject/assets/36833306/637e98d3-f036-4d6e-868b-94115b4a20a2">
+
 
