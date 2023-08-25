@@ -3,15 +3,15 @@
 This is the repository which store my Book Store E-Commerce Website Capstone project. The website will have most features which is similar to the actual Book Store Website. The development is still ongoing for additional features and technologies.
 
 The list below will outline variety features of the website
-
-Show all books to display from database
-Select books to add to cart, remove cart, update cart and view cart, modify quantity.
-Select books to add to wishlist, remove and add item from wishlist to cart
-Allow user to Login, Logout and Register
-Checkout and save order details to database
-View order history
-Integrating with Paypal API for payment 
-
+<ul>
+<li>Show all books to display from database</li>
+<li>Select books to add to cart, remove cart, update cart and view cart, modify quantity. <li>
+<li>Select books to add to wishlist, remove and add item from wishlist to cart<li>
+<li>Allow user to Login, Logout and Register<li>
+<li>Checkout and save order details to database<li>
+<li>View order history<li>
+<li>Integrating with Paypal API for payment <li>
+<ul>
 There are several technologies that I have applied to the project including
 
 Mainly using Java MVC Web Application
