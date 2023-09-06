@@ -54,7 +54,7 @@ Here is the flow of the website
 <img src="https://github.com/khaido51/FinalBookStoreProject/assets/36833306/9e021cc1-6b37-473a-ac52-63f07d9e46fc">
 <br>
 <li>Checkout, showing address's of customer and order details</li>
-<img src="https://github.com/khaiFinalBookStoreProject/assets/36833306/e73e8934-bbe3-4995-9f9b-b507d2e7e83edo51/">
+<img src="https://github.com/khaiFinalBookStoreProject/assets/36833306/e73e8934-bbe3-4995-9f9b-b507d2e7e83edo51">
 <br>
 <li>Pay by using Paypal</li>
 <img src="https://github.com/khaido51/FinalBookStoreProject/assets/36833306/3e6a55f3-b748-4527-86bc-89b66381ac27">
